@@ -2,6 +2,8 @@
 
 We would like to thank you for your interest in contributing to this project. We are open to issues and pull requests, and we really appreciate any help from the community. However, for better management of your contributions, we encourage you to follow some guidelines. We will not ignore nor delete a contribution which does not follow these guidelines, but we could take longer to review and accept it.
 
+Remember that you can easily setup a development environment through the OAS Tools CLI, run `npx @oas-tools/cli init` and select `Development environment`.
+
 ## Issues
 
 We will consider two diferent types of issues: **bugs** and **suggestions** (including enhancements, questions, optimizations...). Nevertheless, there are some common considerations to take into account:
